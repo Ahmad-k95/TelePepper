@@ -113,7 +113,7 @@ Keyboard controls:
 
 ## ScriptRunner Module
 
-This external project provides:
+This subsystem provides:
 - Robot posture generation
 - Experimental scenario execution
 - Automated behavioral scripting
