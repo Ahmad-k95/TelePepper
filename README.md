@@ -25,6 +25,10 @@ The system is composed of four main subsystems:
 - Choregraphe 2.5.x with ScriptRunner module
 - Pepper robot (SoftBank Robotics)
 
+### System Architecture Overview
+
+![TelePepper System Architecture](TelePepper.png)
+
 ---
 
 ## Requirements
@@ -43,8 +47,7 @@ This project requires the NAOqi Python SDK to communicate with Pepper.
 
 You must install the NAOqi SDK and correctly configure the Python path.
 
-Installation instructions are available on the official ADLEBaran documentation website:
-> https://<insert-adlebaran-documentation-link>
+Installation instructions are available on the official ADLEBaran documentation website.
 
 Make sure that:
 - The NAOqi Python modules are accessible in your Python 2.7 environment
@@ -94,16 +97,13 @@ Keyboard controls:
 - Arrow keys → Move video stream (up/down/left/right)
 - `ESC` → Stop GUI execution
 
+### Graphical Interface
+
+![TelePepper Python GUI](assets/python_GUI.png)
+
 ---
 
-## ScriptRunner Module (External Dependency)
-
-⚠️ The ScriptRunner logic (posture generation, scripted behaviors, and experimental sequences) is **not included in this repository**.
-
-It is maintained in a separate repository:
-
-> 🔗 **ScriptRunner Repository:**  
-> https://<insert-your-scriptrunner-repository-link>
+## ScriptRunner Module
 
 This external project provides:
 - Robot posture generation
@@ -140,6 +140,21 @@ This allows real-time synchronization of:
 
 ---
 
-## License / Usage
+## License
 
-This project is intended for research and experimental use in robotics and immersive telepresence systems.
+This project is licensed under the MIT License.
+
+See the `LICENSE` file for full details.
+
+---
+
+## Contact
+
+For questions, collaborations, or contributions, please contact:
+
+**Ahmad Kaddour**  
+INSERM U1093, France  
+
+Email: ahmad.kaddour@inserm.fr  
+
+GitHub: https://github.com/Ahmad-k95
