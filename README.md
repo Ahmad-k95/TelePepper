@@ -8,7 +8,7 @@ TelePepper is an immersive telepresence platform enabling real-time interaction 
 
 Video demonstration of the TelePepper system:
 
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/0ePCSqo9ta8)
 
 ---
 
