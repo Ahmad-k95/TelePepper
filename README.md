@@ -99,7 +99,7 @@ Keyboard controls:
 
 ### Graphical Interface
 
-![TelePepper Python GUI](assets/python_GUI.png)
+![TelePepper Python GUI](assets/GUI.png)
 
 ---
 
